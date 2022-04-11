@@ -1,0 +1,12 @@
+{
+    "section1Content": [
+        {
+            "id": 1,
+            "title": "Welcome to <br> our world",
+            "description": "Discover the unique atmosphere of our private residential club communities. Once experienced. Never forgotten. This is classic, comfortable, modern living in nature’s most spectacular settings worldwide. Reassuringly exclusive. Generously welcoming. Find your unique world – a place where families love to be; creating unforgettable moments, together.",
+            "s1img1": "../assets/images/img1.jpg",
+            "s1img2": "../assets/images/img2.jpg",
+            "s1bgimg": "../assets/images/bg-image.jpg"
+        }
+    ]
+}
